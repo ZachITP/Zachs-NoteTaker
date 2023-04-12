@@ -1,4 +1,4 @@
-# 11 Zach's Note Taker App
+# Zach's Note Taker App
 
 #### By Zach Hanson and UTSA Coding Bootcamp
 
@@ -31,9 +31,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Purpose
 This application makes it easy to store your notes so you dont forget what matters most.
 
-<img src="./Assets/pictures/splash page.png" alt="splash page" title="splash page">
-<img src="./Assets/pictures/note.png" alt="note" title="note">
-<img src="./Assets/pictures/UTSA.png" alt="UTSA" title="UTSA">
+<img src="./assets/pictures/splash page.png" alt="splash page" title="splash page">
+<img src="./assets/pictures/note.png" alt="note" title="note">
+<img src="./assets/pictures/UTSA.png" alt="UTSA" title="UTSA">
 
 
 ## Technologies Used
