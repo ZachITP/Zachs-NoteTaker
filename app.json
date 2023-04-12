@@ -1,0 +1,6 @@
+{
+    "name": "Zach's Note Taker App",
+    "description": "Remember all of life's little details with Zach's Note Taker",
+    "repository": "https://zachitp.github.io/Zachs-NoteTaker/",
+    "keywords": ["node", "express", "notes"]
+}
