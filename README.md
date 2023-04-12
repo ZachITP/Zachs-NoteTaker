@@ -40,6 +40,9 @@ This application makes it easy to store your notes so you dont forget what matte
 JavaScript, HTML, CSS, Node Js, Express, VS Code, Bootstrap
 
 ## Website
+
+Deployed application: https://dashboard.heroku.com/apps/zach-notetaker/deploy/github
+
 Check out more of my work at https://github.com/ZachITP
 
 ## License
